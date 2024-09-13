@@ -1,0 +1,14 @@
+{ 
+    "sources": [
+        {
+            "type": "directory",
+            "source": "custom.armour:textures",
+            "prefix": "custom.armour:textures/"
+        },
+        {
+            "type": "directory",
+            "source": "custom.armour:models",
+            "prefix": "custom.armour:models/"
+        }
+    ]
+}
